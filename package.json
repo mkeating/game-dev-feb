@@ -1,5 +1,5 @@
 {
-  "name": "game-dev-feb",
+  "name": "sample-phaser3-typescript-project",
   "version": "1.0.1",
   "description": "A sample project using Phaser 3 and TypeScript",
   "main": "src/main.ts",
